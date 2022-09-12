@@ -8,3 +8,14 @@ Initial wave function: Superposition of two counter-propagating plane waves
 
 Initial wave function: Gaussian wave packet
 ![ringProp_gaussian](https://user-images.githubusercontent.com/86719084/189726377-74f78cc5-4ce3-4b48-b356-dcf5c6113d73.gif)
+
+<br /><br /><br /><br /><br /><br /><br />
+
+Initial wave function: Blackman function
+![ringProp_blackman](https://user-images.githubusercontent.com/86719084/189727397-9abc7a4a-f8bd-42b2-9121-62f025676efa.gif)
+Note: the Blackman function has a compact support 
+
+<br /><br /><br /><br /><br /><br /><br />
+
+Initial wave function: Two counter-propagating Gaussian wave packets
+![ringProp_2gaussian](https://user-images.githubusercontent.com/86719084/189727264-d976d6c7-1fc8-4ee2-8d1a-3852dab633cf.gif)
