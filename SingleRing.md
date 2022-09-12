@@ -6,5 +6,7 @@ Initial wave function: Superposition of two counter-propagating plane waves
 <br />
 <br />
 <br />
+<br />
+<br /><br /><br /><br /><br /><br />
 Initial wave function: Gaussian wave packet
 ![ringProp_gaussian](https://user-images.githubusercontent.com/86719084/189726377-74f78cc5-4ce3-4b48-b356-dcf5c6113d73.gif)
