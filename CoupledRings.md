@@ -12,7 +12,7 @@ Position space
 
 Momentum space
 
-![plane_wave_K0_coupled_rings_fft](https://user-images.githubusercontent.com/86719084/189729486-73f9a00f-027c-41ac-81c7-184821d357c2.gif)
+![plane_wave_K0_coupled_rings_fft](https://user-images.githubusercontent.com/86719084/189735427-537d3960-33d1-45d9-8ad7-dbed699a170f.gif)
 
 <br /><br /><br /><br /><br /><br />
 
